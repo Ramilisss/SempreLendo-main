@@ -18,7 +18,7 @@ a{
     color: unset;
 }
 a:hover{
-    color: #4c00b0 !important;
+    color: #ff82ab ;
 }
 .container{
     width: 100vw;
@@ -49,7 +49,7 @@ a:hover{
     padding-bottom: 40px;
 }
 .title-container h1{
-    color: #4c00b0;
+    color: #ff82ab;
     font-size: 30px;
     font-weight: 600;
 }
@@ -117,7 +117,7 @@ a:hover{
     bottom: -2px;
     width: 0%;
     height: 2px;
-    background-color: #4c00b0;
+    background-color: #ff82ab;
     transition: .4s;
 }
 .input-div:before{
@@ -156,7 +156,7 @@ a:hover{
 .login-inner-content a{
     display: block;
     text-align: right;
-    color: rgb(0, 0, 0);
+    color: #ff82ab(0, 0, 0);
     margin-top: 10px;
     font-size: 10px;
     font-weight: 600;
@@ -169,7 +169,7 @@ a:hover{
     border-radius: 50px;
     outline: none;
     border: none;
-    background-image: linear-gradient(to right, #4c00b0, #4c00b0, #4c00b0 );
+    background-image: linear-gradient(to right, #ff82ab, #ff82ab, #ff82ab );
     background-size: 200%;
     font-size: 1.2rem;
     color: #fff;
