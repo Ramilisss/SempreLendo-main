@@ -1731,7 +1731,7 @@ input:checked + .toggle-bg {
 
 .text-purple-500 {
   --tw-text-opacity: 1;
-  color: rgb(144 97 249 / var(--tw-text-opacity));
+  color: rgb(255 130 171 / var(--tw-text-opacity));
 }
 
 .text-purple-600 {
@@ -2001,7 +2001,7 @@ input:checked + .toggle-bg {
 
 .dark .dark\:text-purple-400 {
   --tw-text-opacity: 1;
-  color: rgb(172 148 250 / var(--tw-text-opacity));
+  color: rgb(255 130 171 / var(--tw-text-opacity));
 }
 
 .dark .dark\:text-purple-500 {
@@ -2397,7 +2397,7 @@ input:checked + .toggle-bg {
 
   .lg\:text-purple-700 {
     --tw-text-opacity: 1;
-    color: rgb(108 43 217 / var(--tw-text-opacity));
+    color: rgb(255 130 171 / var(--tw-text-opacity));
   }
 
   .lg\:hover\:bg-transparent:hover {
@@ -2406,7 +2406,7 @@ input:checked + .toggle-bg {
 
   .lg\:hover\:text-purple-700:hover {
     --tw-text-opacity: 1;
-    color: rgb(108 43 217 / var(--tw-text-opacity));
+    color: rgb(255 130 171 / var(--tw-text-opacity));
   }
 
   .dark .lg\:dark\:hover\:bg-transparent:hover {
@@ -2444,4 +2444,11 @@ input:checked + .toggle-bg {
     font-size: 3.75rem;
     line-height: 1;
   }
+
+  @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&display=swap');
+
+/* coding with nick */
+}
+a:hover{
+    color: #ff82ab ;
 }
